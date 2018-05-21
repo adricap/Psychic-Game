@@ -1,5 +1,5 @@
-var alphabet = "abcdefghijklmnopqrstuvwxyz"; //.split("")
-//var computerChoices = "abcdefghijklmnopqrstuvwxyz";
+var alphabet = "abcdefghijklmnopqrstuvwxyz".toLowerCase();
+
 var userArray = [];
 var wins = 0;
 var losses = 0;
